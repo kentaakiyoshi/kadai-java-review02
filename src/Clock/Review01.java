@@ -5,6 +5,7 @@ public class Review01 {
     public static void main(String[] args) {
         double productPrice = 1000; // 商品価格（例として1000円）
 
+
         // 消費税の計算
         double tax = tax(productPrice);
 
